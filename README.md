@@ -1,5 +1,11 @@
-# JSEncrypt
+# 🚀 JSEncrypt
 JSEncrypt for node &amp; browser
+
+## Install
+
+```
+$ npm i jsencrypt-node
+```
 
 Introduction
 ======================
