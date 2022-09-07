@@ -1,6 +1,6 @@
 {
   "name": "jsencrypt-node",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "JSEncrypt for node & browser",
   "main": "index.js",
   "scripts": {
